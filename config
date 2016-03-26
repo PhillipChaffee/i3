@@ -156,7 +156,7 @@ bar {
 }
 
 # Startup Programs
-exec --no-startup-id feh --bg-fill ~/Photos/background.png
+exec --no-startup-id feh --bg-fill ~/Pictures/background.jpg
 
 # Custom KeyBinds
 bindsym Control+$mod+l exec sh ~/.i3/i3lock.sh
